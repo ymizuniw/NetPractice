@@ -9,7 +9,7 @@ The goal of this project is to understand IP addressing, including subnet calcul
 ## Instructions
 
 1. Open **Chrome** on your device.
-2. Run `./net_practice/run.sh` from the repository root, then click **"net_practice"** in the browser index that opens.
+2. Run `./net_practice/run.sh` from the repository root (if you have downloaded already. if not download the interface first.), then click **"net_practice"** in the browser index that opens.
 3. Log in to the **Training** or **Evaluation** interface depending on your purpose.
 4. After completing each configuration, click **"Get my config"** to save it locally.
 5. Confirm that all **10 level configuration files** are present at the repository root — this is a submission requirement.
