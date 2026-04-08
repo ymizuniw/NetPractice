@@ -1,12 +1,12 @@
 *This project has been created as part of the 42 curriculum by ymizuniw.*
 
-## Overview
+## Description
 
 The goal of this project is to understand IP addressing, including subnet calculation, routing, gateways, and more. Learners use the NetPractice interface to simulate network routing.
 
 ---
 
-## Getting Started
+## Instructions
 
 1. Open **Chrome** on your device.
 2. Run `./net_practice/run.sh` from the repository root, then click **"net_practice"** in the browser index that opens.
@@ -30,9 +30,9 @@ Basic concepts of TCP/IP addressing, subnet masks, default gateways, routers, sw
 
 ---
 
-## Briefings
+### Briefings
 
-### OSI Reference Model
+#### OSI Reference Model
 
 | Layer | Name | Examples | Description |
 |-------|------|----------|-------------|
@@ -64,7 +64,7 @@ Switches improve the efficiency of broadcasting by holding the source MAC addres
 
 ---
 
-## Level Requirements
+## Submission details
 
 ### Level 1
 Two local networks exist. Check that the subnet mask and IP correspond correctly for each network.
